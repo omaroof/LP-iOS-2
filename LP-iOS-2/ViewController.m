@@ -8,8 +8,9 @@
 
 #import "ViewController.h"
 
-@interface ViewController ()
-
+@interface ViewController (){
+   
+}
 @end
 
 @implementation ViewController
@@ -17,6 +18,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    //Print message string present in c++ Model class
 }
 
 
